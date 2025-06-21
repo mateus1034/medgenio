@@ -1,0 +1,12 @@
+streamlit
+watchdog
+together
+chromadb
+langchain
+python-dotenv
+pytesseract
+pdf2image
+python-docx
+torch
+transformers
+sentence-transformers
